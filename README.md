@@ -1,2 +1,1 @@
-# DSC510-Introduction-to-Programming
-This course introduces the Python programming language as a tool to clean, slice, and build tools to analyze an existing dataset. Basic principles of programming are explored as well as techniques for configuring a computer for data science work. 
+This was my very first programming class, and for our final project we were told to create a simple weather application. This allows an end-user to enter a zipcode and see what weather they would expect for that day.
